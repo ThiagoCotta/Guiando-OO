@@ -1,0 +1,15 @@
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\Guiando OO.exe
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\Guiando OO.deps.json
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\Guiando OO.runtimeconfig.json
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\Guiando OO.dll
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\ref\Guiando OO.dll
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\bin\Debug\net6.0\Guiando OO.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.csproj.AssemblyReference.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.AssemblyInfoInputs.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.AssemblyInfo.cs
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.csproj.CoreCompileInputs.cache
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.dll
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\ref\Guiando OO.dll
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.pdb
+C:\Users\Thiag\OneDrive\Área de Trabalho\Guiando OO\obj\Debug\net6.0\Guiando OO.genruntimeconfig.cache
